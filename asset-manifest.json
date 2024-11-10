@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wikiSearch_Api/static/css/main.a1393776.css",
+    "main.js": "/wikiSearch_Api/static/js/main.64818d9d.js",
+    "index.html": "/wikiSearch_Api/index.html",
+    "main.a1393776.css.map": "/wikiSearch_Api/static/css/main.a1393776.css.map",
+    "main.64818d9d.js.map": "/wikiSearch_Api/static/js/main.64818d9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1393776.css",
+    "static/js/main.64818d9d.js"
+  ]
+}
